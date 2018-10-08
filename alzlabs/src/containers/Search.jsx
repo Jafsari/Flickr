@@ -24,8 +24,8 @@ class Search extends Component{
              [e.target.name]: e.target.value
            });
      }
-
-    render(){
+    
+     render(){
         return(
         <div>
         <div>

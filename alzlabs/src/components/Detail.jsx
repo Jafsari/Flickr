@@ -1,7 +1,6 @@
 import React from 'react';
 import '../assets/Detail.css';
 
-
 const Detail = (props) => {
     const renderDetail = () => {
         if (props.info.results.items){
