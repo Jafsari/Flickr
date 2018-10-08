@@ -2,11 +2,12 @@
 
 > This is an application that allows clients to search for photos with specific tags or find random photos.
 
+
 ## How to Get Started
+> Link: https://ancient-badlands-24997.herokuapp.com/
  - Clone repository to your local machine.
  - Inside of the server folder run npm install.
  - Start the Web Server.
- - Sign up for an API key on Flickr's website.
  - Run the client-side development server with npm run start.
  - Search for specific photos or random ones.
 
