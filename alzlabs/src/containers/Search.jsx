@@ -15,6 +15,7 @@ class Search extends Component{
     handleRequest = (e) => {
         e.preventDefault();
         this.props.search({Search:this.state.search})
+        this.setState({search:""})
     }
 
     handleChange = (e) => {
